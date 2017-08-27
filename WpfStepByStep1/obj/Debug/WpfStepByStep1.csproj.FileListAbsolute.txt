@@ -1,0 +1,16 @@
+D:\MyProj\WpfStepByStep1\WpfStepByStep1\bin\Debug\WpfStepByStep1.exe
+D:\MyProj\WpfStepByStep1\WpfStepByStep1\bin\Debug\WpfStepByStep1.pdb
+D:\MyProj\WpfStepByStep1\WpfStepByStep1\bin\Debug\Microsoft.Expression.Drawing.dll
+D:\MyProj\WpfStepByStep1\WpfStepByStep1\bin\Debug\Microsoft.Expression.Drawing.xml
+D:\MyProj\WpfStepByStep1\WpfStepByStep1\obj\Debug\WpfStepByStep1.csprojResolveAssemblyReference.cache
+D:\MyProj\WpfStepByStep1\WpfStepByStep1\obj\Debug\MainWindow.g.cs
+D:\MyProj\WpfStepByStep1\WpfStepByStep1\obj\Debug\App.g.cs
+D:\MyProj\WpfStepByStep1\WpfStepByStep1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\MyProj\WpfStepByStep1\WpfStepByStep1\obj\Debug\WpfStepByStep1_MarkupCompile.cache
+D:\MyProj\WpfStepByStep1\WpfStepByStep1\obj\Debug\WpfStepByStep1_MarkupCompile.lref
+D:\MyProj\WpfStepByStep1\WpfStepByStep1\obj\Debug\MainWindow.baml
+D:\MyProj\WpfStepByStep1\WpfStepByStep1\obj\Debug\WpfStepByStep1.g.resources
+D:\MyProj\WpfStepByStep1\WpfStepByStep1\obj\Debug\WpfStepByStep1.exe
+D:\MyProj\WpfStepByStep1\WpfStepByStep1\obj\Debug\WpfStepByStep1.pdb
+D:\ToGit\WpfStepByStep1\WpfStepByStep1\obj\Debug\WpfStepByStep1.exe
+D:\ToGit\WpfStepByStep1\WpfStepByStep1\obj\Debug\WpfStepByStep1.pdb
